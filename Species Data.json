@@ -852,35 +852,6 @@
                 29
             ],
             [
-                "Chinese Lespedeza"
-            ],
-            [
-                4
-            ],
-            [
-                2
-            ],
-            [
-                0
-            ],
-            [
-                1
-            ],
-            [
-                1
-            ],
-            [
-                0
-            ],
-            [
-                0
-            ]
-        ],
-        [
-            [
-                30
-            ],
-            [
                 "Grayhead Coneflower"
             ],
             [
@@ -907,7 +878,7 @@
         ],
         [
             [
-                31
+                30
             ],
             [
                 "Fragrant Sumac"
@@ -926,6 +897,35 @@
             ],
             [
                 0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                31
+            ],
+            [
+                "Sericea Lespedeza"
+            ],
+            [
+                6
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                1
             ],
             [
                 0
@@ -1548,10 +1548,10 @@
                 53
             ],
             [
-                "Ashy Sunflower"
+                "Purple Loosestrife"
             ],
             [
-                6
+                5
             ],
             [
                 3
@@ -1563,10 +1563,10 @@
                 0
             ],
             [
-                0
+                1
             ],
             [
-                0
+                1
             ],
             [
                 0
@@ -1577,7 +1577,7 @@
                 54
             ],
             [
-                "Common Evening Primrose"
+                "Ashy Sunflower"
             ],
             [
                 6
@@ -1606,7 +1606,7 @@
                 55
             ],
             [
-                "New England Aster"
+                "Common Evening Primrose"
             ],
             [
                 6
@@ -1635,7 +1635,7 @@
                 56
             ],
             [
-                "Showy-Wand Goldenrod"
+                "New England Aster"
             ],
             [
                 6
@@ -1664,10 +1664,10 @@
                 57
             ],
             [
-                "Japanese Knotweed"
+                "Showy-Wand Goldenrod"
             ],
             [
-                10
+                6
             ],
             [
                 3
@@ -1679,10 +1679,10 @@
                 0
             ],
             [
-                1
+                0
             ],
             [
-                1
+                0
             ],
             [
                 0
@@ -1693,7 +1693,7 @@
                 58
             ],
             [
-                "Purple Loosestrife"
+                "Japanese Knotweed"
             ],
             [
                 10
